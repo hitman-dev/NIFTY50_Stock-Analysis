@@ -80,7 +80,7 @@ for i in all_ts:
 ```
 The Data Processing for Forecasting modeling and saving the individual stock model is shown in this [notebook.](https://github.com/hitman-dev/NIFTY50_Stock-Analysis/blob/master/stock_model_save.ipynb)
 
-The models are then loaded dynamically for forecasting of AQI for each individual station.
+The models are then loaded dynamically for forecasting of stock price for each individual stock.
 
 Code for Gain calculation.
 ```python
