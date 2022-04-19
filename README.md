@@ -42,6 +42,7 @@ For forecasting we have used various algorithms and auto ML libraries but the be
 PyCaret is an Auto-ML library used for the building machine learning models. PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows.It is an end-to-end machine learning and model management tool that exponentially speeds up the
 experiment cycle and makes you more productive.
 You can get more information about PyCaret [here.](https://pycaret.org/)
+
 So by using PyCaret Forecasting Algorithm, we made individual models for each stock(total 50 ML models) which are loaded dynamically and gives the respective stock price forecasting for next 7 days.
 
 Code for Forecasting model
@@ -106,15 +107,15 @@ The app assists in selection of Stock for which you want Analysis ,Visualization
 
 ### Volume Traded and Market Cap plot 
  The app shows a Volume Traded and Market Cap plot that shows the trend and variations in the Volume Traded and Market Cap of the stock till current date.
- Volume of trade, also known as trading volume, refers to the quantity of shares or contracts that belong to a given security traded on a daily basis. In other words, trading volume provides a measure of the number of shares that are transacted between a given time period
- Market cap refers to the total value of a publicly traded company's shares. Shorthand for "market capitalization," market cap is one way an investor can evaluate how much a company is worth.
+- Volume of trade, also known as trading volume, refers to the quantity of shares or contracts that belong to a given security traded on a daily basis. In other words, trading volume provides a measure of the number of shares that are transacted between a given time period
+- Market cap refers to the total value of a publicly traded company's shares. Shorthand for "market capitalization," market cap is one way an investor can evaluate how much a company is worth.
 ![Screenshot](images/img_4.JPG)
 
 ### Opening Trend with Moving Avg and Volatility plot 
  The app shows a Opening Trend with Moving Avg and Volatility plot  that shows the trend and variations in the Opening Trend with Moving Avg and Volatility of the stock till current date. 
- In finance, a moving average (MA) is a stock indicator that is commonly used in technical analysis. The reason for calculating the moving average of a stock is to help smooth out the price data by creating a constantly updated average price.
+- In finance, a moving average (MA) is a stock indicator that is commonly used in technical analysis. The reason for calculating the moving average of a stock is to help smooth out the price data by creating a constantly updated average price.
 By calculating the moving average, the impacts of random, short-term fluctuations on the price of a stock over a specified time frame are mitigated.
-Volatility is the rate at which the price of a stock increases or decreases over a particular period.
+-Volatility is the rate at which the price of a stock increases or decreases over a particular period.
 Higher stock price volatility often means higher risk and helps an investor to estimate the fluctuations that may happen in the future.
  The Volatility shows how the stock performs and from which we can decide the risk factor of the stock for investment.
 ![Screenshot](images/img_5.JPG)
