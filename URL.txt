@@ -1,0 +1,1 @@
+https://share.streamlit.io/hitman-dev/nifty50_stock-analysis/app.py
