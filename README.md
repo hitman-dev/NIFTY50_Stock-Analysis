@@ -48,6 +48,7 @@ All this was done to save the resources on the streamlit server side.
 
 ### Auto Commit to github using GitPython 👇.
 
+Code for Auto commit to Github.
 ```python
 import git
 PATH_OF_GIT_REPO = '/work/NIFTY50-Stock-Analysis/.git'  # make sure .git folder is properly configured
