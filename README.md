@@ -115,7 +115,23 @@ The app assists in selection of Stock for which you want Analysis ,Visualization
  The app shows a Opening Trend with Moving Avg and Volatility plot  that shows the trend and variations in the Opening Trend with Moving Avg and Volatility of the stock till current date. 
 - In finance, a moving average (MA) is a stock indicator that is commonly used in technical analysis. The reason for calculating the moving average of a stock is to help smooth out the price data by creating a constantly updated average price.
 By calculating the moving average, the impacts of random, short-term fluctuations on the price of a stock over a specified time frame are mitigated.
--Volatility is the rate at which the price of a stock increases or decreases over a particular period.
+- Volatility is the rate at which the price of a stock increases or decreases over a particular period.
 Higher stock price volatility often means higher risk and helps an investor to estimate the fluctuations that may happen in the future.
  The Volatility shows how the stock performs and from which we can decide the risk factor of the stock for investment.
 ![Screenshot](images/img_5.JPG)
+
+### Closing Price Forecasting and Gain calculation & prediction.
+- The app shows a Closing Price Forecastin plot  that includes analysis of stock's closing price till current date and Forecasting for the next seven days. You can see the plot for three different scale that is for one month, for five months and for one year according the option as specified by the user.
+- The app also shows Gain calculation and prediction based on the user input of no of stocks invested and stock price per share of the selected share at the time of investment. The app shows Initial total investment ,current gain amount and precentage gain and next seven days gain amount and precentage gain ,the gain can be positive gain or negative gain.
+![Screenshot](images/img_5.JPG)
+
+ # Collaboration 
+ This project is collaborative work of:-
+ 
+#### Hitesh Chaudhari
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-chaudhari-0259ba14a/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hitman-dev)
+ 
+#### Siddhant Mishra
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-mishra-02aa50110/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0NE-C0DEMAN)
