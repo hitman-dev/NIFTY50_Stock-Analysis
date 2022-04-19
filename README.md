@@ -10,4 +10,14 @@
 ![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/hitesh-chaudhari-0259ba14a_data-india-cloud-activity-6921765376657641472-2Zyd?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
-# NIFTY50  Stocks Analysis, Visualization, Forecasting and Gain Calculation and Predicton
+# NIFTY50  Stocks Analysis, Visualization, Forecasting and Gain Calculation & Predicton.
+
+Watch a short App flow video here 👇.
+
+https://user-images.githubusercontent.com/72800256/163971875-ab68c45d-5069-4dc2-8a96-b56f68d61014.mov
+
+You can try out this app [here.](https://share.streamlit.io/hitman-dev/indias-aqi/app.py)
+
+
+
+
