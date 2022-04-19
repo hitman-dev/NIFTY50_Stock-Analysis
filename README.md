@@ -12,7 +12,7 @@
 
 # NIFTY50  Stocks Analysis, Visualization, Forecasting and Gain Calculation & Predicton.
 
-A web App deployed on HEROKU CLOUD/Strealit CLoud ,that Analysis, Visualization, Forecasting and Gain Calculation & Predicton the stock Data collected of the NIFTY50 stock's and than Forecast the stock price for next 7 days, for every individual stock and also show the Gain Calculation & Predicton of the stock.
+A web App deployed on HEROKU CLOUD/Strealit CLoud that Analysie and Visualize the stock Data collected from the NIFTY50 stock's and then Forecast the stock price for next 7 days, for every individual stock and also show the Gain Calculation & Predicton of the stock.
 
 Watch a short App flow video here 👇.
 
