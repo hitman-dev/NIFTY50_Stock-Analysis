@@ -12,7 +12,7 @@
 
 # NIFTY50  Stocks Analysis, Visualization, Forecasting and Gain Calculation & Prediction.
 
-A web App deployed on Streamlit Cloud that Analyse and Visualize the stock Data collected from the NIFTY50 stock's and then Forecast the stock price for next 7 days, for every individual stock and also show the Gain Calculation & Prediction of the stock.
+A web App deployed on Streamlit Cloud that Analyse and Visualize the stock Data collected from the NIFTY50 stock's and then Forecasts the stock price for next 7 days, for every individual stock and also show the Gain Calculation & Prediction of the stock.
 
 Watch a short App flow video here 👇.
 
@@ -31,7 +31,7 @@ Stock and financial markets tend to be unpredictable and even illogical. Due to 
 Machine learning has the potential to ease the whole process by analyzing large chunks of data, spotting significant patterns and generating a single output that navigates traders towards a particular decision based on predicted asset prices.
 
 ## Project overview
-In this project we have collected the Historical data of NIFTY 50 stocks by using yfinance  API, performed EDA on the data and stored it on GitHub, then apply Forecasting model for each stock individually and than Forecasted the stock price for next seven days. we have also included a GAIN calculator and GAIN predictor according to current price and next seven days gain.
+In this project we have collected the Historical data of NIFTY 50 stocks by using yfinance  API, then applied Forecasting model for each stock individually and than Forecasted the stock price for next 7 days. we have also included a GAIN calculator and GAIN predictor according to current price and next 7 days gain.
 
 ## API Used
 
@@ -39,7 +39,7 @@ In this project we have collected the Historical data of NIFTY 50 stocks by usin
   - API link :- 'https://pypi.org/project/yfinance/'
 
 ## Model training and dynamic updation on github
-All the models related to stocks were trained on a scheduled notebook on a weekly basis. This models were trained on the [Deepnote](https://deepnote.com/) and the final models were pushed to the Github repository with the help of [GitPython ](https://gitpython.readthedocs.io/en/stable/tutorial.html) library. THus we will always get updated models every week.
+All the models related to stocks were trained on a scheduled notebook on a weekly basis. These models were trained on the [Deepnote](https://deepnote.com/) and the final models were pushed to the Github repository with the help of [GitPython ](https://gitpython.readthedocs.io/en/stable/tutorial.html) library. Thus we will always get updated models every week.
 
 All this was done to save the resources on the streamlit server side. 
 
