@@ -123,9 +123,9 @@ Higher stock price volatility often means higher risk and helps an investor to e
 ![Screenshot](images/img_5.JPG)
 
 ### Closing Price Forecasting and Gain calculation & prediction.
-- The app shows a Closing Price Forecastin plot  that includes analysis of stock's closing price till current date and Forecasting for the next seven days. You can see the plot for three different scale that is for one month, for five months and for one year according the option as specified by the user.
-- The app also shows Gain calculation and prediction based on the user input of no of stocks invested and stock price per share of the selected share at the time of investment. The app shows Initial total investment ,current gain amount and precentage gain and next seven days gain amount and precentage gain ,the gain can be positive gain or negative gain.
-![Screenshot](images/img_5.JPG)
+- The app shows a Closing Price Forecasting plot  that includes analysis of stock's closing price till current date and Forecasting for the next seven days. You can see the plot for three different scale that is for one month, for five months and for one year according the option as specified by the user.
+- The app also shows Gain calculation and prediction based on the user input of number of stocks invested and stock price per share of the selected share at the time of investment. The app shows Initial total investment ,current gain amount and current precentage gain and next seven days gain amount and next seven days precentage gain ,the gain can be positive gain or negative gain.
+![Screenshot](images/img_6.JPG)
 
  # Collaboration 
  This project is collaborative work of:-
