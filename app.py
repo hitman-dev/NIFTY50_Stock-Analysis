@@ -7,7 +7,7 @@ import yfinance as yf
 import plotly.graph_objects as go
 from pycaret.regression import *
 
-# streamlit run C:/Users/Siddhant/PycharmProjects/Projects/stock/app.py --server.address=127.0.0.1
+# streamlit run app.py --server.address=127.0.0.1
 
 st.set_page_config(layout="wide")
 # st.title("Stock Analysis On NIFTY50")
