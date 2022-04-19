@@ -38,6 +38,31 @@ In this project we have collected the Historical data of NIFTY 50 stocks by usin
 - Yahoo! Finance's API to download the historical data for NIFTY 50 stock.
   - API link :- 'https://pypi.org/project/yfinance/'
 
+## Model training and dynamic updation on github
+All the models related to stocks were trained on a scheduled notebook on a weekly basis. This models were trained on the [Deepnote](https://deepnote.com/) and the final models were pushed to the Github repository with the help of [GitPython ](https://gitpython.readthedocs.io/en/stable/tutorial.html) library. THus we will always get updated models every week.
+
+All this was done to save the resources on the streamlit server side. 
+
+### Scheduling deepnote notebook 👇.
+![Screenshot](images/schedule_notebook.JPG)
+
+### Auto Commit to github using GitPython 👇.
+
+```python
+import git
+PATH_OF_GIT_REPO = '/work/NIFTY50-Stock-Analysis/.git'  # make sure .git folder is properly configured
+
+repo = git.Repo(PATH_OF_GIT_REPO)
+index = repo.index
+index.add("models")
+index.commit("gitpython deepnote")
+remote = repo.remote()
+remote.pull(repo.active_branch)
+remote.push("master")
+```
+![Screenshot](images/git_upload.JPG)
+
+ 
 ## Stock price Forecasting
 
 For forecasting we have used various algorithms and auto ML libraries but the best out was given by Pycaret auto ML library.
