@@ -31,7 +31,7 @@ Stock and financial markets tend to be unpredictable and even illogical. Due to 
 Machine learning has the potential to ease the whole process by analyzing large chunks of data, spotting significant patterns and generating a single output that navigates traders towards a particular decision based on predicted asset prices.
 
 ## Project overview
-In this project we have collected the Historical data of NIFTY 50 stocks by using yfinance  API, performed EDA on the data and stored it on GitHub, then apply Forecasting model for each stoc individually and than Forecasted the stock's position for next seven days. we have also included a GAIN calculator and GAIN predictor according to current price and next seven days gain.
+In this project we have collected the Historical data of NIFTY 50 stocks by using yfinance  API, performed EDA on the data and stored it on GitHub, then apply Forecasting model for each stock individually and than Forecasted the stock price for next seven days. we have also included a GAIN calculator and GAIN predictor according to current price and next seven days gain.
 
 ## API Used
 
