@@ -10,9 +10,9 @@
 ![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/hitesh-chaudhari-0259ba14a_data-india-cloud-activity-6921765376657641472-2Zyd?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
-# NIFTY50  Stocks Analysis, Visualization, Forecasting and Gain Calculation & Predicton.
+# NIFTY50  Stocks Analysis, Visualization, Forecasting and Gain Calculation & Prediction.
 
-A web App deployed on HEROKU CLOUD/Strealit CLoud that Analysie and Visualize the stock Data collected from the NIFTY50 stock's and then Forecast the stock price for next 7 days, for every individual stock and also show the Gain Calculation & Predicton of the stock.
+A web App deployed on Streamlit Cloud that Analyse and Visualize the stock Data collected from the NIFTY50 stock's and then Forecast the stock price for next 7 days, for every individual stock and also show the Gain Calculation & Prediction of the stock.
 
 Watch a short App flow video here 👇.
 
