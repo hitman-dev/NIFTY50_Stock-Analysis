@@ -100,7 +100,7 @@ The app assists in selection of Stock for which you want Analysis ,Visualization
 ![Screenshot](images/img_1.JPG)
 
 ### Current Stock related information with history data visualization
- The app shows a small info card that shows Current stock price with gain amount, percentage gain and gain indicator. The gain an be positive gain or negative gain. It also shows the history data candlestick plot the shows High vs Low for the respective stock till current date.
+ The app shows a small info card that shows Current stock price with gain amount, percentage gain and gain indicator. The gain can be positive gain or negative gain. It also shows the history data candlestick plot the shows High vs Low for the respective stock till current date.
 ![Screenshot](images/img_2.JPG)
 
 ### Opening price plot 
