@@ -1,3 +1,1 @@
 https://share.streamlit.io/hitman-dev/nifty50_stock-analysis/app.py
-
-![Deepnote](https://img.shields.io/static/v1?style=for-the-badge&message=Deepnote&color=3793EF&logo=Deepnote&logoColor=FFFFFF&label=)
